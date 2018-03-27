@@ -1,2 +1,3 @@
 # Prolog-Interpreter
-Prolog interpreter in python
+Prolog parser and interpreter in python without use of library. 
+ 
